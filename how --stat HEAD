@@ -1,0 +1,10 @@
+[33m55e32a2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Push V1 Code For Steel-Doc-Intelligence
+[33md28740b[m Add a walkthrough, and trim the comments that only restated the code
+[33mf540acc[m Test the React app, in the three layers it actually breaks in
+[33m4ecc478[m Let a steward release a quarantined document
+[33m4681955[m Decide what belongs in the corpus, and what to answer at all
+[33mc4a79b7[m Look at the drawing only when the file cannot answer
+[33mdd1c364[m Read what a CAD drawing actually says, not just the text in it
+[33m42d630b[m Plan: what a CAD drawing contains that we still do not read
+[33md627fe0[m Read the text inside CAD blocks, and stop filters emptying the results
+[33m1ba6127[m Stop the context compressor discarding every drawing chunk
