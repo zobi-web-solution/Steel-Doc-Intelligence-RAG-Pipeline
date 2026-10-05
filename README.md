@@ -142,8 +142,8 @@ Also see the [model card](docs/governance/model_card.md) and
 
 ```bash
 # Clone the repo
-git clone https://github.com/NehanPathan/RAG-Pipeline-Production-Level-.git
-cd RAG-Pipeline-Production-Level-
+git clone https://github.com/zobi-web-solution/Steel-Doc-Intelligence-RAG-Pipeline.git
+cd Steel-Doc-Intelligence-RAG-Pipeline
 
 # Copy environment template and fill in your own values
 cp .env.example .env
@@ -209,4 +209,4 @@ All required environment variables are documented in [.env.example](.env.example
 
 ## License
 
-This project is for educational and portfolio purposes.
+This project is for portfolio purposes.
