@@ -1,12 +1,5 @@
 # Steel Document Intelligence
 
-> **Part of a two-project repository.** This is the domain system, built on
-> LangChain and LangGraph with a React front end. Its sibling
-> [`../rag-core/`](../rag-core/) is the same platform written without any
-> framework — a hand-rolled workflow engine, provider clients and embedders —
-> and is the better place to start if you want to see the mechanics with
-> nothing hidden. See the [repository README](../README.md) for how they relate.
-
 A document intelligence platform for steel and structural engineering: it reads
 drawings, schedules, specifications and native CAD files, and answers questions
 about them citing the sheet the answer came from. Built on FastAPI, Postgres,
